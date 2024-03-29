@@ -1,6 +1,8 @@
 # TryYours - Virtual Try-On
 
-Welcome to TryYours, a Virtual Try-On project that leverages cutting-edge machine learning techniques to enable users to try on clothes virtually. This guide will walk you through setting up and running the project in Google Colab, a free cloud service supported by Google that allows you to run your Jupyter notebooks.
+# Take a look at the videos for demonstation purposes hosted on gradio.io
+
+Virtual Try-On project that leverages machine learning techniques to enable users to try on clothes virtually. This guide will walk you through setting up and running the project in Google Colab, a free cloud service supported by Google that allows you to run your Jupyter notebooks.
 
 ## Getting Started
 
