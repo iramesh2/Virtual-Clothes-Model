@@ -1,4 +1,4 @@
-# TryYours - Virtual Try-On
+# Virtual Try-On
 
 # Take a look at the videos for demonstation purposes hosted on gradio.io
 
